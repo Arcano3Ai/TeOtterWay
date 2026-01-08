@@ -1,0 +1,5 @@
+{
+  "name": "The Otter Way",
+  "description": "A lightweight 3D web game featuring an otter with buoyancy physics, hybrid land/water movement, and smooth camera follow, built with Three.js and Cannon-es.",
+  "requestFramePermissions": []
+}
